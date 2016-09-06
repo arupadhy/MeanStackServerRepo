@@ -1,0 +1,32 @@
+{
+  "name": "node-mongo-express",
+  "version": "1.0.0",
+  "description": "Using nodejs with express,gulp and mongoose",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arupadhy/MeanStackServerRepo.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "nodejs",
+    "express",
+    "gulp"
+  ],
+  "author": "Arvind upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arupadhy/MeanStackServerRepo/issues"
+  },
+  "homepage": "https://github.com/arupadhy/MeanStackServerRepo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "mongoose": "^4.6.0"
+  }
+}
